@@ -5,9 +5,9 @@
     "framework": "FLASK"
     },
 "client": {
-    "client_id": "e5c690fe-05df-4035-8f95-f6820851c584",
-    "client_credential": "BpQ.A3ntu20jkUCcR-QluvN359DU--71ef",
-    "authority": "https://fabrikamb2c.b2clogin.com/fabrikamb2c.onmicrosoft.com"
+    "client_id": "3c0393e1-d9ea-4d48-84b7-a1f4c3f5c98c",
+    "client_credential": "x9E8Q~3c7z12nfit7JCs4w5VI7D7uZmVB_Db_a17",
+    "authority": "https://lavalb2cdev.b2clogin.com/lavalb2cdev.onmicrosoft.com"
     },
 "b2c": {
     "susi": "/b2c_1_susi",
